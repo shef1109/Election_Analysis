@@ -19,7 +19,8 @@ A Colorado Board of Elections employee requested your help in completing an elec
 
 ## Summary
 
-![Election Image]
+![ElectionResults](/Election_Results/Resources/Election_Results.png)
+
 The analysis of the election results (as provided in the image above) show that:
 * There were 369,711 votes cast in the election.
 
